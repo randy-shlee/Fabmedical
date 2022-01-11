@@ -12,16 +12,16 @@
       "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC5rHb0caJDDPdS5nbDHjREL2Q23zvFsw2SyS6HonNpkun99sevesGPxKFJ4SFLLmxnQuCbqhk1wqbdSpXld1D7IJPhjCpgNk8NJLaYIHiiwOQdNoTDToS8wU18f9QX2OC+fcndqJdfINpDKul+JttLo0/yXlg1UMy4C2Y2nOIigIkLzLJEANlz3Y8ScDvVZtRrPyxy3fUIW4Zhpe1H+m6fGbAwAH5yUmO6WSnGMvfEke/XjmVUJa0R9cLjLNj/wHWwSiKK5ixRV6uhiMjL21FBUSDYHV8VJqdgppZa0W0jc0s3/JR4tJxM0LtAgsCYBeLFGPe2osLgVIU0KYRQ34GZ admin@fabmedical"
     },
     "CosmosLocation": {
-      "value": "northeurope"
+      "value": "koreacentral"
     },
     "CosmosLocationName": {
-      "value": "North Europe"
+      "value": "Korea Central"
     },
     "CosmosPairedLocation": {
-      "value": "westeurope"
+      "value": "koreasouth"
     },
     "CosmosPairedLocationName": {
-      "value": "West Europe"
+      "value": "Korea South"
     }
   }
 }
